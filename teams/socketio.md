@@ -44,7 +44,7 @@ permalink: /teams/socketio/
 ##### Contribution to project SI
 * ...
 
-#### Technology expertise in tool Z
+#### Technology expertise in tool A
 * ...
 
 #### @YijinL (Leow Yijin)
